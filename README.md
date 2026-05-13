@@ -25,6 +25,16 @@ A responsive mini e-commerce web application built using React and Flask.
 - Python
 - Flask
 
+## How to run
+
+### Backend
+cd backend
+python app.py
+
+### Frontend
+cd frontend
+npm run dev
+
 ## Project Link
 
 [Mini E-Commerce Store](https://github.com/ishaa-305/Mini-Ecommerce-Store)
