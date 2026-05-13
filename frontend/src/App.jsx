@@ -129,7 +129,7 @@ function App() {
 
               <p>{product.description}</p>
               <div className="rating">
-                 ⭐ {product.rating}
+                {product.rating} ★
               </div>
 
               <h4>₹ {product.price}</h4>
