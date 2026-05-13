@@ -28,12 +28,17 @@ A responsive mini e-commerce web application built using React and Flask.
 ## How to run
 
 ### Backend
+```bash
 cd backend
 python app.py
+```
 
 ### Frontend
+```bash
 cd frontend
+npm install
 npm run dev
+```
 
 ## Project Link
 
