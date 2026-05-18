@@ -44,6 +44,17 @@ npm run dev
 
 [Mini E-Commerce Store](https://github.com/ishaa-305/Mini-Ecommerce-Store)
 
+## Project Screenshots
+
+### Home Page
+![Home Page](img/homepage.png)
+
+### Shopping Cart
+![Cart](img/cart.png)
+
+### Category
+![Checkout](img/category.png)
+
 ## Author
 
 Isha Dwivedi
